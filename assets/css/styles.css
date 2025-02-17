@@ -1,0 +1,134 @@
+.tempora-twittes {
+    height: 900px;
+}
+
+.btn-twitter {
+    margin-top: 5%;
+    height: 40px;
+    width: 100px;
+    background-color: rgb(29, 155, 240);
+    border: none;
+    border-radius: 20px;
+    color: azure;
+}
+
+.btn-twitter:hover {
+    background-color: rgb(28, 122, 240);
+}
+
+
+.btn-twitter-small{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+    height: 30px;
+    width: 120px;
+    background-color: rgb(145, 195, 240);
+    border: none;
+    border-radius: 20px;
+    color: azure;
+    text-align: center;
+}
+
+.text-small-2{
+    font-size: 12px;
+    color: rgb(29, 155, 240);
+}
+
+.icon-color-red {
+    color: rgb(29, 155, 240);
+    font-size: 14px;
+}
+
+.tweets-central{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .more-tweets-1{
+        color: rgb(29, 155, 240);
+        font-size: 14px;
+    }   
+}
+
+.tweets-central:hover {
+    background-color: rgb(210, 210, 210);
+}
+
+.flex_tweet:hover{
+    background-color: rgb(210, 210, 210);
+}
+
+.text-small {
+    font-size: 16px; 
+}
+
+.btn-twitter-small:hover {
+    background-color: rgb(29, 155, 240);
+}
+
+.box-3{
+    font-size: 10px;
+}
+
+
+ul li a {
+    border-radius: 10px;
+}
+
+ul li a:hover {
+    background-color: rgb(210, 210, 210);
+}
+
+/* enable absolute positioning */
+.inner-addon {
+    position: relative;
+}
+
+/* style icon */
+.inner-addon .bi {
+    position: absolute;
+    padding: 10px;
+    pointer-events: none;
+}
+
+.span-tendencias {
+    font-size: small;
+}
+
+
+/* align icon */
+.left-addon .bi {
+    left: 0px;
+}
+
+.right-addon .bi {
+    right: 0px;
+}
+
+/* add padding  */
+.left-addon input {
+    padding-left: 30px;
+}
+
+.right-addon input {
+    padding-right: 30px;
+}
+
+.btn-nav-tendencias{
+    margin-left: 50%;
+    border: none;
+    border-radius: 10px;
+}
+
+.btn-icon{
+    margin: 2%;
+    color: rgb(29, 155, 240);
+}
+
+.btn-icon:hover{
+    background-color: rgb(210, 210, 210);
+}
+
+  
